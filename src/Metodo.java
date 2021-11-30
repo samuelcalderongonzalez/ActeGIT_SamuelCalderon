@@ -2,7 +2,7 @@
 public class Metodo {
 
 	public static void main(String[] args) {
-		int[] array = new int[20];
+		int[] array = new int[30];
 		int[] aux = new int[10];
 		
 		for (int i = 0; i < aux.length; i++) {
